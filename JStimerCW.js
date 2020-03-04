@@ -1,8 +1,8 @@
 console.log("Classwork JS Linked");//Link Check
 
 main = () => {
-    // ex1();
-    ex2();
+    ex1();
+    // ex2();
     // ex3();
 }
 
