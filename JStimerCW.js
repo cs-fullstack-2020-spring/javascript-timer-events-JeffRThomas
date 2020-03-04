@@ -48,6 +48,7 @@ ex2 = () => {
 ex3 = () => {
     //     ### Exercise 3: timers
     // Create a button with the text `Start countdown!`. When the User clicks the button, display a countdown sequence in the browser as an `<h2>` from 10 to `LIFTOFF!!`. Display each number during the countdown for *1 second*, leading up to the word `LIFTOFF`.
+    
 
 
 
